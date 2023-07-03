@@ -2,7 +2,6 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-from typing import List
 from cpf import CPF # Importa meu modulo CPF
 
 
