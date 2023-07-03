@@ -90,6 +90,9 @@ Certifique-se de ter o Python 3 instalado. Você também pode criar um ambiente 
 2. A API será executada localmente em http://localhost:8000.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença MIT. Por favor, inclua a seguinte referência no seu trabalho derivado:
+<br>
+- API de Validação de CPF - desenvolvida por [Piedro404](https://github.com/piedro404) sob a Licença MIT.
+
 
 Obrigado a todos, desejo otimos estudos, caso queira, entre em contato em pedro.henrique.martins404@gmail.com.
