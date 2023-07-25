@@ -72,7 +72,7 @@ Certifique-se de ter o Python 3 instalado. Você também pode criar um ambiente 
 1. Clone este repositório:
    
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/piedro404/cpf-validation-api.git
    ```
 2. Instale as dependências:
    
