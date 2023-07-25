@@ -85,7 +85,7 @@ Certifique-se de ter o Python 3 instalado. Você também pode criar um ambiente 
 1. Execute o seguinte comando para iniciar a API:
 
    ```bash
-   python Main.py
+   python main.py
    ```
 2. A API será executada localmente em http://localhost:8000.
 
