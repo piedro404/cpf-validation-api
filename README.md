@@ -1,7 +1,6 @@
 # API de Validação de CPF
 
 [![Status](https://img.shields.io/badge/status-on-brightgreen)](https://api-cpf.vercel.app/)
-[![GitHub license](https://img.shields.io/github/license/piedro404/cpf-validation-api)](https://github.com/piedro404/cpf-validation-api/blob/main/LICENSE)
 
 Esta é uma API de validação de CPF. Ela permite que você verifique se um CPF é válido e também gere CPFs válidos aleatórios. Hospedada em [https://api-cpf.vercel.app/](https://api-cpf.vercel.app/).
 
@@ -89,10 +88,5 @@ Certifique-se de ter o Python 3 instalado. Você também pode criar um ambiente 
    ```
 2. A API será executada localmente em http://localhost:8000.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT. Por favor, inclua a seguinte referência no seu trabalho derivado:
-<br>
-- API de Validação de CPF - desenvolvida por [Piedro404](https://github.com/piedro404) sob a Licença MIT.
-
-
+## Sobre
 Obrigado a todos, desejo otimos estudos, caso queira, entre em contato em pedro.henrique.martins404@gmail.com.
